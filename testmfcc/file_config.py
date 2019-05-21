@@ -1,0 +1,5 @@
+test_tatden_dir = "C:\\Users\\today\\Desktop\\dulieuhocmay\\test_tatden\\*.wav"
+test_batden_dir = "C:\\Users\\today\\Desktop\\dulieuhocmay\\test_batden\\*.wav"
+train_tatden_dir = "C:\\Users\\today\\Desktop\\dulieuhocmay\\train_tatden\\*.wav"
+train_batden_dir = "C:\\Users\\today\\Desktop\\dulieuhocmay\\train_batden\\*.wav"
+nothing_dir = "C:\\Users\\today\\Desktop\\Recording-11.wav"
